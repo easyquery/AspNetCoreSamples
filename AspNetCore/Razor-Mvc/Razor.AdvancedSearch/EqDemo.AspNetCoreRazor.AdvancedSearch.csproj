@@ -21,11 +21,11 @@
     <PackageReference Include="EasyData.Exporters.PdfSharp" Version="1.2.1" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Korzh.EasyQuery.AspNetCore" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.DataExport" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.EntityFrameworkCore.Relational" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.RazorUI" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" Version="7.0.0" />
+    <PackageReference Include="Korzh.EasyQuery.AspNetCore" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.DataExport" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.EntityFrameworkCore.Relational" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.RazorUI" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" Version="7.0.1" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="wwwroot\css\site.css">

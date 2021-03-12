@@ -103,11 +103,11 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Korzh.EasyQuery.Db" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.AspNet4" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.DataExport" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.EntityFramework6" Version="7.0.0" />
+    <PackageReference Include="Korzh.EasyQuery.Db" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.AspNet4" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.DataExport" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.EntityFramework6" Version="7.0.1" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="EasyData.Exporters.ClosedXML" Version="1.2.1" />

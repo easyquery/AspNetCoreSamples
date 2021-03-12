@@ -10,9 +10,9 @@
   "dependencies": {
     "@easydata/core": "1.2.1",
     "@easydata/ui": "1.2.1",
-    "@easyquery/core": "7.0.0",
-    "@easyquery/ui": "7.0.0",
-    "@easyquery/enterprise": "7.0.0",
+    "@easyquery/core": "7.0.1",
+    "@easyquery/ui": "7.0.1",
+    "@easyquery/enterprise": "7.0.1",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",

@@ -64,11 +64,11 @@
     <PackageReference Include="EntityFramework" Version="6.2.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Korzh.EasyQuery.Db" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.Wpf" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.DataExport" Version="7.0.0" />
-    <PackageReference Include="Korzh.EasyQuery.EntityFramework6" Version="7.0.0" />
+    <PackageReference Include="Korzh.EasyQuery.Db" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.Wpf" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.DataExport" Version="7.0.1" />
+    <PackageReference Include="Korzh.EasyQuery.EntityFramework6" Version="7.0.1" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Korzh.DbUtils.Import" Version="1.4.1" />
